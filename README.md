@@ -1,2 +1,1 @@
-# github.io
-Yur's website
+# [Yur's website](yuryuryur2020.github.io)
